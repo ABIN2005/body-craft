@@ -94,7 +94,7 @@ Tech Stack
 • Firebase – Authentication & database 
 • HTML, CSS – UI design
 
-**6.Abstract:**
+**8.Abstract:**
 Utilization of Augmented Reality (AR) technology to create an engaging and interactive experience.
 Offering a variety of workout programs tailored to diverse fitness goals and levels.
 Monitoring progress and maintaining a history of workouts.
